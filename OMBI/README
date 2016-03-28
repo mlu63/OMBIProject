@@ -1,0 +1,6 @@
+Build instructions:
+Load the untitled.pro file into QTCreator v2.7.0 and Build All
+
+Libraries used:
+Qt 5.0.1 (64-bit)
+QCustomPlot 1.0.1
