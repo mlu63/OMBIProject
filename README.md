@@ -1,6 +1,6 @@
 # OMBIProject
 
-Project done for the Ontario CAO Municipal's Benchmarking Initiative (OMBI)
+Project done for the Ontario CAO Municipal's Benchmarking Initiative (OMBI).
 OMBI's purpose is to collect statistical data about various things over various years to find trends and areas of concern.
 In the past, they had displayed this information side-by-side using printouts and graphs in a large book.
 
